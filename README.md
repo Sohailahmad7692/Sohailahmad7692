@@ -64,6 +64,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sohailahmad7692&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohailahmad7692&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuchange&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuchange&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ## 🏆 GitHub Profile Trophy
 
@@ -85,7 +89,7 @@
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
   <br>
-  <i>📫 Reach me at: sohailahmad7692128@gmail.com</i>
+  <i>📫 Reach me at: sohailahmad7692@gmail.com</i>
 </div>
 
 ⭐️ From [Sohail Ahmad](https://github.com/Sohailahmad7692)
