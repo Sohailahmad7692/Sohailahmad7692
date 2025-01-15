@@ -1,7 +1,7 @@
-# Hi there, I'm Anurag Vishwakarma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there, I'm Sohail Ahmad! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+AI+Enthusiast;Code+%7C+Debug+%7C+Solve;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Senior+Software+Developer;Code+%7C+Debug+%7C+Solve;Always+learning%2C+always+growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
