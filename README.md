@@ -64,10 +64,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sohailahmad7692&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohailahmad7692&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuchange&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuchange&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Sohailahmad7692&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohailahmad7692&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
 
 ## 🏆 GitHub Profile Trophy
 
